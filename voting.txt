@@ -1,0 +1,1 @@
+I developed a Smart Voting System that uses face recognition to securely verify voters. The system includes an AI-driven database that manages and validates voter information automatically. It helps prevent duplicate voting and ensures fast, accurate results. Overall, the project improves the security and transparency of the voting process.
