@@ -6,7 +6,6 @@ This project is used to learn Git and GitHub
 - Beginner Friendly  
 - Helps learn Git  
 
-*Hello*
-**Hi**  
+Hello Hi  
 print("Hello World!")  
-[google](https://google.com)
+google
